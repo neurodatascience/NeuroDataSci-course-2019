@@ -26,8 +26,9 @@ large part of this course is language agnostic, we will teach and use python
 throughout the course. Students will start to work on projects that they will
 continue during the following  computational neuroscience seminar weeks.
 
-The course will require that you have some basic programming experience and some
-notion of statistical analysis, but will be aimed at life scientists
+The course will require that you have basic programming experience and one or more
+undergraduate course(s) in statistical analysis (or equivalent experience),
+but it will be aimed at life scientists
 (neurologists, psychiatrists, pyschologists, neuroscientists) who wish to
 improve their research practices, or students who want an introduction to
 data science with examples in neuroscience and neuroimaging. We will strive to avoid
@@ -63,15 +64,14 @@ Discussion and lunch (1h)
 
 [Part II: Reproducibility and Data Management Tools]
 
-Lesson 2: Computational Basics : shell and git (3h JB + PB ?)
+Lesson 2: Computational Basics : shell and git (4h JB + PB ?)
 -----------------------------------------------------------------
 	- Know your shell
 	- Know your editor
 	- Git: understand the model
 		* How to Never lose anything 
 		* How do I best collaborate with myself?
-	- Git distributed
-	- Github and other web based infrastructures for git
+	- Github for distributed version-control and collaboration
 
 ~~~~~~~~~~~~~~~~~~~
 Tuesday May 7th
@@ -79,18 +79,19 @@ Tuesday May 7th
 
 Lesson 3: Standards for project management and organization (3h ED / JB / ? )
 -----------------------------------------------------------------------------
-	- Project hygiene
-	- BIDS
-	- OSF?
-	- Binders?
+	- General project organization (e.g., Project TIER, DRESS protocol)
+	- Brain Imaging Data Structure (BIDS)
+	- Basics of package structure: README, LICENSE, requirements.txt
+	- Option to cover CONTRIBUTING and CODE_OF_CONDUCT files
 
 Discussion and lunch (1h)
 ---------------------------
+
 Lesson 4: Containers: Docker and dockerhub (3h GK + SB)
 -----------------------------------------------------------------
 	- Containers versus virtual machines
 	- Docker and singularity 
-	- Neurodocker (<--?)
+	- Neurodocker for container generation
 	- Launching pipelines on HPC 
 
 
@@ -126,7 +127,7 @@ Thursday May 9th
 Lesson 6: Exploring, visualizing and preparing data (3h ?)
 -----------------------------------------------------------------
 	-- Getting to know your dataset:
-		-- Visualizing data
+		-- Visualizing data (basics with scatterplots, histograms, etc)
 		-- Describing data (basic stats in python)
 		-- Data reduction (SVD, clustering, ICA)
 	-- Model comparison, cross-validation, sampling techniques
