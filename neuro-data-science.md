@@ -61,7 +61,7 @@ Lesson 1: Epistemiology and lesson from the past (2h JB / ?)
 Discussion and lunch (1h)
 ---------------------------
 
-[Part II: The computational tools]
+[Part II: Reproducibility and Data Management Tools]
 
 Lesson 2: Computational Basics : shell and git (3h JB + PB ?)
 -----------------------------------------------------------------
@@ -70,49 +70,52 @@ Lesson 2: Computational Basics : shell and git (3h JB + PB ?)
 	- Git: understand the model
 		* How to Never lose anything 
 		* How do I best collaborate with myself?
+	- Git distributed
+	- Github and other web based infrastructures for git
 
 ~~~~~~~~~~~~~~~~~~~
 Tuesday May 7th
 ~~~~~~~~~~~~~~~~~~~
 
-Lesson 3: Computational Basics : python for programmers (3h JB + ED / ... ? )
+Lesson 3: Standards for project management and organization (3h ED / JB / ? )
 -----------------------------------------------------------------------------
-	- Why Python : a software glue
-	- Python key data structure
-	- Beyond simple python: class, decorators, getter/setters, etc
-	- Testing framework
+	- Project hygiene
+	- BIDS
+	- OSF?
+	- Binders?
 
 Discussion and lunch (1h)
 ---------------------------
-
-Lesson 4: Git distributed and collaboratif (3h  ED + JB + TG ...)
+Lesson 4: Containers: Docker and dockerhub (3h GK + SB)
 -----------------------------------------------------------------
-	- Git distributed
-	- Github and other web based infrastructures for git
-	- Git and data: introducing git-annex (and git-lfs)
-	- Handling data, the future: DataLad
+	- Containers versus virtual machines
+	- Docker and singularity 
+	- Neurodocker (<--?)
+	- Launching pipelines on HPC 
+
 
 ~~~~~~~~~~~~~~~~~~~
 Wednesday May 8th
 ~~~~~~~~~~~~~~~~~~~
 
-Lesson 5: Scientific python ecosystem (3h JB + NB +  ?)
+[Part III: Data analysis : concept and tools]
+Lesson 5: Computational Basics : python for programmers (3h JB + NB + JV)
 -----------------------------------------------------------------
-	- The basics: Numpy, Scipy, Matplotlib 
-	- Python random generator
-	- Pandas
-	- Seaborn and others
-	- jupyter 
+	- Why Python : a software glue
+	- Python key data structures
+	- Automation basics: For loops, conditional statements, and funtional programming
+	- The data analysis suite: Numpy, Scipy, Matplotlib, Pandas, Nibabel 
+	- From images to data in Python
 
 Discussion and lunch (1h)
 ---------------------------
 
-Lesson 6: Containers: Docker and dockerhub (3h GK + SB)
+External gives a talk (1 hr) 
 -----------------------------------------------------------------
-	- Containers v ersus virtual machines
-	- Docker and singularity 
-	- Neurodocker 
-	- Launching pipelines on HPC 
+External gives a lesson? (1 hr) -- Or a survey of open datasets -- Or spillover of previous section
+-----------------------------------------------------------------
+Python practice? (1 hr)
+-----------------------------------------------------------------
 
 ~~~~~~~~~~~~~~~~~~~
 Thursday May 9th
@@ -120,46 +123,44 @@ Thursday May 9th
 
 [Part III: Data analysis : concept and tools]
 
-Lesson 7: Exploring and visualizing data (3h ?)
+Lesson 6: Exploring, visualizing and preparing data (3h ?)
 -----------------------------------------------------------------
-	- Data reduction techniques and visualization 
-	- The SVD
-	- introduction to clustering techniques
-		- kmeans - wards - spectral clustering  
-	- tsne
+	-- Getting to know your dataset:
+		-- Visualizing data
+		-- Describing data (basic stats in python)
+		-- Data reduction (SVD, clustering, ICA)
+	-- Model comparison, cross-validation, sampling techniques
+		- Notion of model validation and model comparison
+		- Bootstrap - Jacknife
+		- Cross-validation
 
 Discussion and lunch (1h)
 ---------------------------
 
-Lesson 8: Statistical tools - the basics (3h JB / ?)
+Lesson 7: Machine learning (3h JV / ...)
 -----------------------------------------------------------------
-	- Sampling - Distributions, CDF,  etc  
-	- Null hypothesis significance testing paradigm, notion of effect size
-	- GLM
-	- P-values, p-hacking, power, PPV
-	- NHST: non parametric methods, permutations
-	- Scipy stats module + Statsmodels package
+	- Prediction and prediction error
+	- Feature selection
+	- Classification
+	- Regression
+	- Bagging/consensus
+	- Feature interpretation
+	- An introduction to deep learning
 
 ~~~~~~~~~~~~~~~~~~~
 Friday May 10th
 ~~~~~~~~~~~~~~~~~~~
 
-Lesson 11: Model comparison, cross validation, Sampling techniques  (PB / JB 3h)
+Project brainstorm
 -----------------------------------------------------------------
-	- Notion of model validation and model comparison
-	- Bootstrap - Jacknife
-	- Cross-validation
-	- Distributing computation 
+	- Students present project ideas
 
 Discussion and lunch (1h)
 ---------------------------
 
-Lesson 12: Machine learning (3h JV / ...)
+Lesson XXX: Bonus time that is unused -- 3 hours saved to put whatever we want in
 -----------------------------------------------------------------
-	- Prediction and prediction error
-	- scikit-learn and ni-learn and exmaple
-	- SVM - Random Forest
-	- An introduction to deep learning
+	
 
 Recap and miscellaneous
 -----------------------------------------------------------------
