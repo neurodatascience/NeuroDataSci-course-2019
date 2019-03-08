@@ -13,7 +13,7 @@ tools and methods to efficiently analyse, visualize and interpret neuroscience
 data. Concurrently, there is a growing concern in the life sciences that many
 results produced are difficult or even impossible to reproduce. This is
 referred to as the reproducibility crisis, which concerns most of biomedical
-fields [F. Collin]. 
+fields [F. Collin].
 
 This first week of the computational neuroscience seminar series is bringing
 together software and analytical tools and methods.  It will teach students how
@@ -31,101 +31,104 @@ undergraduate course(s) in statistical analysis (or equivalent experience),
 but it will be aimed at life scientists
 (neurologists, psychiatrists, pyschologists, neuroscientists) who wish to
 improve their research practices, or students who want an introduction to
-data science with examples in neuroscience and neuroimaging. We will strive to avoid
-the classic problem described in Figure 1. 
+data science with examples in neuroscience and neuroimaging.
 
+The first week, outlined below, can be conceptually divided into three sections:
 
-~~~~~~~~~~~~~~~~~~~
-Monday May 6th
-~~~~~~~~~~~~~~~~~~~
- 
-[Part I: Introduction]
+- Part I: Introduction and Motivation  
+- Part II: Reproducibility and Data Management Tools  
+- Part III: Data analysis: concept and tools  
 
-Introduction to the course: (1h PB / JB)
--------------------------------------------
+---
+
+## Monday May 6th
+
+### Introduction to the course
+#### 1.5 hours, Dr. Pierre Bellec
+
 	- Code of conduct
 	- logistics
-	- Let us know what you know 
+	- Let us know what you know
 	- Motivation
 	- Objectives
 	- Content
 	- Evaluation
 
-Lesson 1: Epistemiology and lesson from the past (2h JB / ?)
------------------------------------------------------------------
+### Epistemology and lessons from the past
+#### 2 hours, Dr. Jean-Baptiste Poline
+
 	- A word on Popper and Khun
 		* falsifiability
 		* what makes a scientific revolution ?
 		* lessons for today's neuroscience
 	- Reproducibility issues in biology and neuroscience
 
-Discussion and lunch (1h)
----------------------------
+### Lunch: 1 hour
 
-[Part II: Reproducibility and Data Management Tools]
+### Installation time and troubleshooting: 1 hour
 
-Lesson 2: Computational Basics : shell and git (4h JB + PB ?)
------------------------------------------------------------------
+### Git and GitHub
+#### 3 hours, Dr. Jean-Baptiste Poline
+
 	- Know your shell
-	- Know your editor
 	- Git: understand the model
-		* How to Never lose anything 
+		* How to Never lose anything
 		* How do I best collaborate with myself?
 	- Github for distributed version-control and collaboration
 
-~~~~~~~~~~~~~~~~~~~
-Tuesday May 7th
-~~~~~~~~~~~~~~~~~~~
+---
 
-Lesson 3: Standards for project management and organization (3h ED / JB / ? )
------------------------------------------------------------------------------
+## Tuesday May 7th
+
+### Standards for project management and organization
+#### 3 hours, Elizabeth DuPre
+
 	- General project organization (e.g., Project TIER, DRESS protocol)
 	- Brain Imaging Data Structure (BIDS)
 	- Basics of package structure: README, LICENSE, requirements.txt
 	- Option to cover CONTRIBUTING and CODE_OF_CONDUCT files
 
-Discussion and lunch (1h)
----------------------------
+### Lunch: 1 hour
 
-Lesson 4: Containers: Docker and dockerhub (3h GK + SB)
------------------------------------------------------------------
+### Containers
+#### 3 hours, Greg Kiar
+
 	- Containers versus virtual machines
-	- Docker and singularity 
+	- Docker and singularity
 	- Neurodocker for container generation
-	- Launching pipelines on HPC 
 
+### Workflow Overview: 0.5 hours
 
-~~~~~~~~~~~~~~~~~~~
-Wednesday May 8th
-~~~~~~~~~~~~~~~~~~~
+### Assessment 1: 0.5 hours
 
-[Part III: Data analysis : concept and tools]
-Lesson 5: Computational Basics : python for programmers (3h JB + NB + JV)
------------------------------------------------------------------
+---
+
+## Wednesday May 8th
+
+### Python for data analysis
+#### 3 hours, Jake Vogel
+
 	- Why Python : a software glue
 	- Python key data structures
 	- Automation basics: For loops, conditional statements, and funtional programming
-	- The data analysis suite: Numpy, Scipy, Matplotlib, Pandas, Nibabel 
+	- The data analysis suite: Numpy, Scipy, Matplotlib, Pandas, Nibabel
 	- From images to data in Python
 
-Discussion and lunch (1h)
----------------------------
+### Lunch: 1 hour
 
-External gives a talk (1 hr) 
------------------------------------------------------------------
-External gives a lesson? (1 hr) -- Or a survey of open datasets -- Or spillover of previous section
------------------------------------------------------------------
-Python practice? (1 hr)
------------------------------------------------------------------
+### External Talk: 1 hour
 
-~~~~~~~~~~~~~~~~~~~
-Thursday May 9th
-~~~~~~~~~~~~~~~~~~~
+### External Lesson: 2 hours
 
-[Part III: Data analysis : concept and tools]
+### Assessment 2: 0.5 hours
 
-Lesson 6: Exploring, visualizing and preparing data (3h ?)
------------------------------------------------------------------
+---
+
+## Thursday May 9th
+
+###  Exploring and visualizing data
+#### 3 hours, Elizabeth DuPre
+
 	-- Getting to know your dataset:
 		-- Visualizing data (basics with scatterplots, histograms, etc)
 		-- Describing data (basic stats in python)
@@ -135,50 +138,28 @@ Lesson 6: Exploring, visualizing and preparing data (3h ?)
 		- Bootstrap - Jacknife
 		- Cross-validation
 
-Discussion and lunch (1h)
----------------------------
+### Lunch: 1 hour
 
-Lesson 7: Machine learning (3h JV / ...)
------------------------------------------------------------------
+### Introduction to Machine learning
+#### 4 hours, Jake Vogel
+
 	- Prediction and prediction error
 	- Feature selection
 	- Classification
 	- Regression
 	- Bagging/consensus
 	- Feature interpretation
-	- An introduction to deep learning
 
-~~~~~~~~~~~~~~~~~~~
-Friday May 10th
-~~~~~~~~~~~~~~~~~~~
+---
 
-Project brainstorm
------------------------------------------------------------------
-	- Students present project ideas
+## Friday May 10th
 
-Discussion and lunch (1h)
----------------------------
+### Introduction to Deep Learning
+#### 3 hours, Jessica Thompson
 
-Lesson XXX: Bonus time that is unused -- 3 hours saved to put whatever we want in
------------------------------------------------------------------
-	
+### Lunch: 1 hour
 
-Recap and miscellaneous
------------------------------------------------------------------
+### Recap: 1 hour
+### Assessment 3: 0.5 hours
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Saturday May 11th ? 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Lesson 10: The Bayesian framework (3h)
------------------------------------------------------------------
-	- Bayes basics 
-	- Positive predictive values
-	- Introduction to pyMC3 / python tools for Bayesian analyses
-
-
-![How to draw an owl?][owl] 
-
-[owl]:/home/jb/documents/talks_travels/material/draw-an-owl.jpg "How to avoid this issue?"
-
+### Extra time and / or one-on-one help: 2.5 hours
