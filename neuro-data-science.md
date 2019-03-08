@@ -44,7 +44,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Monday May 6th
 
 ### Introduction to the course
-#### 1.5 hours, Dr. Pierre Bellec
+#### 1.5 hours, Pierre Bellec
 
 	- Code of conduct
 	- logistics
@@ -55,7 +55,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 	- Evaluation
 
 ### Epistemology and lessons from the past
-#### 2 hours, Dr. Jean-Baptiste Poline
+#### 2 hours, Jean-Baptiste Poline
 
 	- A word on Popper and Khun
 		* falsifiability
@@ -68,7 +68,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Installation time and troubleshooting: 1 hour
 
 ### Git and GitHub
-#### 3 hours, Dr. Jean-Baptiste Poline
+#### 3 hours, Dr. Jean-Baptiste Poline (Valerie Hayot-Sasson)
 
 	- Know your shell
 	- Git: understand the model
@@ -81,7 +81,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Tuesday May 7th
 
 ### Standards for project management and organization
-#### 3 hours, Elizabeth DuPre
+#### 3 hours, Elizabeth DuPre (?)
 
 	- General project organization (e.g., Project TIER, DRESS protocol)
 	- Brain Imaging Data Structure (BIDS)
@@ -91,7 +91,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Lunch: 1 hour
 
 ### Containers
-#### 3 hours, Greg Kiar
+#### 3 hours, Greg Kiar (Liza Llevitas)
 
 	- Containers versus virtual machines
 	- Docker and singularity
@@ -106,7 +106,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Wednesday May 8th
 
 ### Python for data analysis
-#### 3 hours, Jake Vogel
+#### 3 hours, Jake Vogel (Greg Kiar)
 
 	- Why Python : a software glue
 	- Python key data structures
@@ -116,9 +116,9 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ### Lunch: 1 hour
 
-### External Talk: 1 hour
+### Kirstie Whitaker Talk: 1 hour
 
-### External Lesson: 2 hours
+### Kirstie Whitaker Binder Lesson: 2 hours
 
 ### Assessment 2: 0.5 hours
 
@@ -127,7 +127,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Thursday May 9th
 
 ###  Exploring and visualizing data
-#### 3 hours, Elizabeth DuPre
+#### 3 hours, Elizabeth DuPre (Pierre Bellec)
 
 	-- Getting to know your dataset:
 		-- Visualizing data (basics with scatterplots, histograms, etc)
@@ -141,7 +141,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### Lunch: 1 hour
 
 ### Introduction to Machine learning
-#### 4 hours, Jake Vogel
+#### 4 hours, Jake Vogel (Estefany Suarez)
 
 	- Prediction and prediction error
 	- Feature selection
@@ -155,7 +155,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Friday May 10th
 
 ### Introduction to Deep Learning
-#### 3 hours, Jessica Thompson
+#### 3 hours, Jessica Thompson (?)
 
 ### Lunch: 1 hour
 
