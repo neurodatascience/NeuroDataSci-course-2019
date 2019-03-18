@@ -44,15 +44,18 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Monday May 6th
 
 ### Introduction to the course
-#### 1.5 hours, Pierre Bellec
-
+#### 45' Context of the Montreal Brainhack school: Pierre Bellec
+	- goals and history of the school
 	- Code of conduct
-	- logistics
-	- Let us know what you know
 	- Motivation
 	- Objectives
-	- Content
-	- Evaluation
+	- Evaluations for the school
+
+#### 45' Neuro-data-science week: JB Poline 
+	- logistics
+	- Let us know what you know
+	- Content of the week 
+	- Evaluations for this week
 
 ### Epistemology and lessons from the past
 #### 2 hours, Jean-Baptiste Poline
