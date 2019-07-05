@@ -41,7 +41,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ---
 
-## Monday May 6th
+## Monday August 5th
 
 ### Introduction to the course / week
 #### 1 hour, Jean-Baptiste Poline
@@ -79,7 +79,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ---
 
-## Tuesday May 7th
+## Tuesday August 6th
 
 ### Python for data analysis
 #### 3 hours, Jake Vogel (Greg Kiar)
@@ -104,7 +104,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ---
 
-## Wednesday May 8th
+## Wednesday August 7th
 
 ### Containers
 #### 3 hours, Greg Kiar (Liza Llevitas)
@@ -123,7 +123,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ---
 
-## Thursday May 9th
+## Thursday August 8th
 
 ###  Exploring and visualizing data
 #### 3 hours, Elizabeth DuPre (?)
@@ -143,7 +143,7 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ---
 
-## Friday May 10th
+## Friday August 9th
 
 ### Introduction to Machine learning
 #### 4 hours, Jake Vogel (Estefany Suarez)
