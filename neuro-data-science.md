@@ -43,22 +43,20 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ## Monday May 6th
 
-### Introduction to the course
-#### 45' Context of the Montreal Brainhack school: Pierre Bellec
+### Introduction to the course / week
+#### 1 hour, Jean-Baptiste Poline
 	- goals and history of the school
 	- Code of conduct
 	- Motivation
 	- Objectives
 	- Evaluations for the school
-
-#### 45' Neuro-data-science week: JB Poline 
 	- logistics
 	- Let us know what you know
-	- Content of the week 
+	- Content of the week
 	- Evaluations for this week
 
 ### Epistemology and lessons from the past
-#### 2 hours, Jean-Baptiste Poline
+#### 2.5 hours, Jean-Baptiste Poline
 
 	- A word on Popper and Khun
 		* falsifiability
@@ -83,31 +81,6 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ## Tuesday May 7th
 
-### Standards for project management and organization
-#### 3 hours, Elizabeth DuPre (?)
-
-	- General project organization (e.g., Project TIER, DRESS protocol)
-	- Brain Imaging Data Structure (BIDS)
-	- Basics of package structure: README, LICENSE, requirements.txt
-	- Option to cover CONTRIBUTING and CODE_OF_CONDUCT files
-
-### Lunch: 1 hour
-
-### Containers
-#### 3 hours, Greg Kiar (Liza Llevitas)
-
-	- Containers versus virtual machines
-	- Docker and singularity
-	- Neurodocker for container generation
-
-### Workflow Overview: 0.5 hours
-
-### Assessment 1: 0.5 hours
-
----
-
-## Wednesday May 8th
-
 ### Python for data analysis
 #### 3 hours, Jake Vogel (Greg Kiar)
 
@@ -119,9 +92,32 @@ The first week, outlined below, can be conceptually divided into three sections:
 
 ### Lunch: 1 hour
 
-### Kirstie Whitaker Talk: 1 hour
+### Python, cont. and Standards for project management and organization
+#### 3 hours, Elizabeth DuPre (?)
 
-### Kirstie Whitaker Binder Lesson: 2 hours
+	- General project organization (e.g., Project TIER, DRESS protocol)
+	- Brain Imaging Data Structure (BIDS)
+	- Basics of package structure: README, LICENSE, requirements.txt
+	- Option to cover CONTRIBUTING and CODE_OF_CONDUCT files
+
+### Assessment 1: 0.5 hours
+
+---
+
+## Wednesday May 8th
+
+### Containers
+#### 3 hours, Greg Kiar (Liza Llevitas)
+
+	- Containers versus virtual machines
+	- Docker and singularity
+	- Neurodocker for container generation
+
+### Lunch: 1 hour
+
+### Lecture by Felix: 1 hour
+
+### Compute Canada and Binder Lesson: 2 hours
 
 ### Assessment 2: 0.5 hours
 
@@ -130,39 +126,42 @@ The first week, outlined below, can be conceptually divided into three sections:
 ## Thursday May 9th
 
 ###  Exploring and visualizing data
-#### 3 hours, Elizabeth DuPre (Pierre Bellec)
+#### 3 hours, Elizabeth DuPre (?)
 
-	-- Getting to know your dataset:
-		-- Visualizing data (basics with scatterplots, histograms, etc)
-		-- Describing data (basic stats in python)
-		-- Data reduction (SVD, clustering, ICA)
-	-- Model comparison, cross-validation, sampling techniques
-		- Notion of model validation and model comparison
-		- Bootstrap - Jacknife
-		- Cross-validation
+	- Getting to know your dataset:
+		- Visualizing data (basics with scatterplots, histograms, etc)
+		- Describing data (mean, stds, etc in python)
+		- Data reduction (SVD, clustering, ICA)
+	- Basic statistics
+	  - Power analysis and effects sizes
+		- Regression
 
 ### Lunch: 1 hour
 
-### Introduction to Machine learning
-#### 4 hours, Jake Vogel (Estefany Suarez)
+#### Lecture by Manjari
 
-	- Prediction and prediction error
-	- Feature selection
-	- Classification
-	- Regression
-	- Bagging/consensus
-	- Feature interpretation
 
 ---
 
 ## Friday May 10th
 
-### Introduction to Deep Learning
-#### 3 hours, Jessica Thompson (?)
+### Introduction to Machine learning
+#### 4 hours, Jake Vogel (Estefany Suarez)
+
+- Model comparison, cross-validation, sampling techniques
+	- Notion of model validation and model comparison
+	- Bootstrap - Jacknife
+	- Cross-validation
+- Prediction and prediction error
+- Feature selection
+- Classification
+- Regression
+- Bagging/consensus
+- Feature interpretation
 
 ### Lunch: 1 hour
 
-### Recap: 1 hour
-### Assessment 3: 0.5 hours
+### Introduction to Deep Learning
+#### 3 hours, Jessica Thompson (?)
 
-### Extra time and / or one-on-one help: 2.5 hours
+### Assessment 3: 0.5 hours
