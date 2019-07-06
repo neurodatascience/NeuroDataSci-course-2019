@@ -2,7 +2,7 @@
 Title : Fundamentals in Neuro Data Science
 ===========================================
 
-Key words: teaching, mcgill, open data science, neuroscience
+Key words: teaching, mcgill, open data science, reproducibiliy, neuroscience, neuroimaging
 
 Syllabus:
 -----------
@@ -28,10 +28,10 @@ continue during the following  computational neuroscience seminar weeks.
 
 The course will require that you have basic programming experience and one or more
 undergraduate course(s) in statistical analysis (or equivalent experience),
-but it will be aimed at life scientists
-(neurologists, psychiatrists, pyschologists, neuroscientists) who wish to
-improve their research practices, or students who want an introduction to
-data science with examples in neuroscience and neuroimaging.
+but it will be aimed at life scientists (neurologists, psychiatrists, 
+pyschologists, neuroscientists) who wish to improve their research practices, 
+or students who want an introduction to data science with examples in neuroscience 
+and neuroimaging.
 
 The first week, outlined below, can be conceptually divided into three sections:
 
@@ -59,7 +59,7 @@ The first week, outlined below, can be conceptually divided into three sections:
     - 16:00 - Assessment 1
 
 #### Wednesday, August 5th
-    - 09:00 - Containers
+    - 09:00 - Using and building Containers
     - 12:00 - Lunch
     - 13:00 - Guest Lecture on Binder + Jupyter
     - 14:00 - High-Performance Computing and Compute Canada
@@ -86,18 +86,18 @@ The first week, outlined below, can be conceptually divided into three sections:
 ### 9:00 - Course Introduction (JB Poline)
 An introduction to BrainHack School, including a brief history, motivation, 
 objectives, evaluation process and code of conduct. This will be followed by an 
-outline of the four-week course, followed by an introduction to Week 1.
+outline of the four-week course proposed across Concordia, McGill, Polytechnique 
+and Université de Montréal, followed by an introduction to Week 1.
 
-**Learning Objectives:** Become familiar with the objectives and logistics of 
-BrainHack school.
-
+**Learning Objectives:** 
+    - Become familiar with the objectives and logistics of BrainHack school.
 
 ### 10:00 - Epistemology and lessons from the past (JB Poline)
 
 An in-depth exploration of the facets and challenges of neuroscience that 
 created the need for initiatives like BrainHack School. This will included an 
-overview of the challenges of neuroscience day, and topics related to 
-reproducibility, falsifiability, (…?, power structures?,…?) and related topics.
+overview of some classical epistemological contexts, and topics related to 
+reproducibility, falsifiability, and statistics.
 
 **Learning Objectives:** Understand the greater context that created the need for 
 the tools you will learn to use in BrainHack school.
