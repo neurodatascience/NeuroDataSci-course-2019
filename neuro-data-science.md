@@ -69,6 +69,7 @@ The first week, outlined below, can be conceptually divided into three sections:
     - 09:00 - Exploring and Visualizing Data
     - 12:00 - Lunch
     - 13:00 - Guest Lecture on TBA
+    - 14:00 - Some statistical tools and pitfalls
     - 16:00 - Dismissal
 
 #### Friday, August 5th
@@ -190,7 +191,7 @@ Abstract TBA
 
 ## Thursday, August 8th
 
-###  09:00 Exploring and visualizing data (Elizabeth Dupre & ...?)
+###  09:00 Exploring and visualizing data (Elizabeth Dupre & JB Poline)
 
 Data analysis should always be preceded by a period where one learns about 
 one’s dataset. In this interactive workshop, students will use different 
@@ -210,6 +211,18 @@ python.
 
 Abstract TBA
 
+### 14:00 - Some statistical tools and their pitfalls (Manjari Narayan, JB Poline)
+Life science and medicine researchers often rely on a series of classical tools for data analysis
+and the null hypothesis testing framework. In this session, we will present some of
+the classical (and maybe not so classical) tools often used by this community (eg
+GLM, ANOVAs, mixed effect models, analysis of correlations, power analysis). We will 
+show how to use them in an appropriate manner and point to the potential issues as well 
+as to alternatives in a non parametric context. Examples of models and results will be 
+demonstrated in a hands on session. 
+
+**Learning Objectives:** 1) Have a more in depth understanding of the clasical statistical
+data analysis tools. 2) Know some of their limitations and pitfalls. 3) Know how non
+parametric alternatives to classical statistics can improve the solidity of the results. 
 
 ---
 
