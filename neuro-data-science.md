@@ -140,7 +140,7 @@ to data to analyze and visualize.
 
 ### 12:00 - Lunch: 1 hour
 
-### 13:00 Standards for project management and organization (Elizabeth Dupre & ...?)
+### 13:00 Standards for project management and organization (Elizabeth Dupre, JB Poline)
 
 Neuroscience is rapidly moving from isolated analysis in the void to 
 collaboration, translation and data sharing/hosting. New challenges have thus 
@@ -181,7 +181,7 @@ analyses.
 
 Abstract TBA
 
-### 14:00 - High-Performance Computing (Felix-Antoine Fortin)
+### 14:00 - High-Performance Computing (Felix-Antoine Fortin, Peer Herholz)
 
 Abstract TBA
 
