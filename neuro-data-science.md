@@ -245,7 +245,7 @@ end to end.
 
 ### 13:00 Lunch
 
-### 14:00 Introduction to Deep Learning (Jessica Thompson & ...?)
+### 14:00 Introduction to Deep Learning (?)
 
 Deep learning and AI are gaining extreme popularity within all strata of 
 science, and even in popular culture. This lecture will cover what deep 
