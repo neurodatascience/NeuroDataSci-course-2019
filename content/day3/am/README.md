@@ -20,7 +20,7 @@ The structure of this morning will be as follows:
 
 ### Overview of Computers
 
-
+- [Summary of pieces and Docker, simply](https://blog.usejournal.com/what-is-docker-in-simple-english-a24e8136b90b)
 
 ### Reproducibility in Neuroscience
 
