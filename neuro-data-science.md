@@ -242,7 +242,12 @@ Examples of models and results will be demonstrated in a hands on session.
 
 | Content       | Time allotted | Instructor  |
 | ------------- |:--------------:|-------------|
-| | |  |
+| Visualizations to understand your data | 30 minutes | Jake Vogel |
+| Basic statistcal testing in python | 30 minutes | Elizabeth Dupre |
+| Intro to multiple testing and data reduction | 20 minutes | Elizabeth Dupre |
+| Stretch break / extra time | 10 minutes | E'rbody |
+
+### 10:30 - Guest Lecture: Statistical decomposition (Bratislav Misic)
 
 ### 12:00 - Lunch
 
@@ -267,7 +272,9 @@ end to end.
 
 | Content       | Time allotted | Instructor  |
 | ------------- |:--------------:|-------------|
-| | |  |
+| Key concepts in machine learning | 1.25 hours | Estefany Suarez |
+| Caffiene break | 15 minutes | E'rbody |
+| Nilearn for machine learning with neuroimaging data | 1.5 hours | Jake Vogel |
 
 ---
 
