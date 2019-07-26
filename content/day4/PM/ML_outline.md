@@ -93,7 +93,7 @@ Supervised Learning - Classification:
 
 * sampling and balanced testing (1)
 
-Multiclass prediction (1)
+* Multiclass prediction (1)
 -----------------------------
 
 Unsupervised Learning - Clustering:
