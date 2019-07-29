@@ -132,7 +132,7 @@ and 3) how to use Git and Github for version-control.
 | ------------- |:--------------:|-------------|
 | Introduction to the shell     | 1 hour | JB Poline |
 | Introduction to git for version control    | 1 hour | JB Poline |
-| Introduction to github for collaboration    | 1 hour | JB Poline |
+| Introduction to github for collaboration    | 1 hour | Liza Levitis |
 
 ---
 
