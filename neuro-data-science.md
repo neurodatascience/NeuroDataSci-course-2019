@@ -216,13 +216,24 @@ effectively sharing data and tools. 2)
 
 Abstract TBA
 
-### 14:00 - High-Performance Computing (Felix-Antoine Fortin)
+### 14:00 - Advanced Research Computing (Felix-Antoine Fortin)
 
-Confirming exact plan with Felix. General interest in covering:
+A presentation on what is Compute Canada and advanced research computing
+(ARC) intertwined with an interactive workshop. The workshop will focus on
+connecting to a computing cluster with SSH, accessing the scientific
+softwares and interacting with the job scheduler Slurm.
 
-1. Accessing Compute Canada / available resources
-2. Submitting jobs on Compute Canada / a SLURM tutorial
+**Learning Objectives:** 1) Understand what is Compute Canada and ARC
+2) Learn how to connect to an ARC cluster
+and 3) Learn how to write and submit jobs to Slurm
 
+| Content       | Time allotted | Instructor  |
+| ------------- |:--------------:|-------------|
+| Introduction to Compute Canada     | 45 min | Félix-Antoine Fortin |
+| Connection and file transfer with SSH  | 30 min | Félix-Antoine Fortin |
+| Loading scientific software with Lmod    | 30 min | Félix-Antoine Fortin |
+| Creation and submission of jobs with Slurm    | 1 hour | Félix-Antoine Fortin |
+| Introduction to data transfer with Globus    | 15 min | Félix-Antoine Fortin |
 
 ---
 
