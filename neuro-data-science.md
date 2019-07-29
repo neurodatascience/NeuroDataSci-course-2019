@@ -52,7 +52,7 @@ The first week, outlined below, can be conceptually divided into three sections:
     - 14:00 - Git and Github
     - 17:00 - Dismissal
 
-#### Tuesday, August 5th
+#### Tuesday, August 6th
     - 09:00 - Python for Data Analysis
     - 12:00 - Lunch
     - 13:00 - Using and building Containers
@@ -60,21 +60,21 @@ The first week, outlined below, can be conceptually divided into three sections:
     - 17:00 - Dismissal
     - 18:00 - Optional social event
 
-#### Wednesday, August 5th
+#### Wednesday, August 7th
     - 09:00 - Standards for project management and organization
     - 12:00 - Lunch
     - 13:00 - Guest Lecture on Binder
     - 14:00 - High-Performance Computing and Compute Canada
     - 17:00 - Dismissal
 
-#### Thursday, August 5th
+#### Thursday, August 8th
     - 09:00 - Introductory statistics
     - 12:00 - Lunch
     - 13:00 - Guest Lecture on estimation of connectivity
     - 14:00 - Classical machine learning
     - 17:00 - Dismissal
 
-#### Friday, August 5th
+#### Friday, August 9th
     - 09:00 - Introduction to Deep Learning
     - 12:00 - Lunch
     - 13:00 - Multivariate statistics and matrix factorizations
@@ -116,7 +116,7 @@ the tools you will learn to use in BrainHack school.
 
 ### 13:00 - Installation time and troubleshooting: 1 hour
 
-### 14:00 - Git and GitHub (JB Poline, TBD)
+### 14:00 - Git and GitHub (JB Poline, Liza Levitis)
 
 Interactive session where students will become familiar with the shell,
 followed by a deep dive into the Git model for distributed version-control and
@@ -132,7 +132,7 @@ and 3) how to use Git and Github for version-control.
 | ------------- |:--------------:|-------------|
 | Introduction to the shell     | 1 hour | JB Poline |
 | Introduction to git for version control    | 1 hour | JB Poline |
-| Introduction to github for collaboration    | 1 hour | JB Poline |
+| Introduction to github for collaboration    | 1 hour | Liza Levitis |
 
 ---
 
