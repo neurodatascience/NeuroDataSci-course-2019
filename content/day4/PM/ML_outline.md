@@ -39,6 +39,8 @@ Supervised Learning - Regression:
 
 * Evaluating significance: permutation tests (performance above chance level?) (1)
 
+#### >>Small break here for a demo<<
+
 #### Understanding model features
 
 * prediction vs model fitting (1)
@@ -58,6 +60,8 @@ Supervised Learning - Regression:
 * Feature selection (1/2)
 
 * Feature extraction (1/2)
+
+#### >>Possibly another demo here if there is time<<
 
 #### Regularization
 
