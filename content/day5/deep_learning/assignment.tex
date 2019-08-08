@@ -163,6 +163,19 @@ Since $onehot_m(y) = 1$ when $m$ is the target and is $0$ otherwise, we see that
 
 See \texttt{softmax\_backward} and \texttt{\_softmax} for an implementation.
 
+    \subsection{Backward through the weights}
+
+\begin{equation}
+    \frac{\partial L}{\partial \mathbf{h}^s} = \frac{\partial L}{\partial \mathbf{o}^a} \frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s}
+\end{equation}\\
+
+We have aleady defined $\frac{\partial L}{\partial \mathbf{o}^a}$. The gradient of $\frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s}$ is given by:\\
+
+\begin{align}
+    \frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s} &= \frac{\partial}{\partial \mathbf{h}^s} (\mathbf{W}^{(2)T}\mathbf{h}^s +\mathbf{b}^{(2)})\\
+    &= \mathbf{W}^{(2)T}
+\end{align}
+
 \subsection{Backward update to the second weight matrix and bias term}
 
 Note that all \textbf{bold} variables represent matrices. \\
@@ -189,19 +202,6 @@ and
     &= \mathbf{1}
 \end{align}
 
-
-\subsection{Backward through the weights}
-
-\begin{equation}
-    \frac{\partial L}{\partial \mathbf{h}^s} = \frac{\partial L}{\partial \mathbf{o}^a} \frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s}
-\end{equation}\\
-
-We have aleady defined $\frac{\partial L}{\partial \mathbf{o}^a}$. The gradient of $\frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s}$ is given by:\\
-
-\begin{align}
-    \frac{\partial \mathbf{o}^a}{\partial \mathbf{h}^s} &= \frac{\partial}{\partial \mathbf{h}^s} (\mathbf{W}^{(2)T}\mathbf{h}^s +\mathbf{b}^{(2)})\\
-    &= \mathbf{W}^{(2)T}
-\end{align}
 
 \subsection{Backward through the ReLU}
 
@@ -243,18 +243,18 @@ and
 
 Where $\mathbf{h}^{a} \in \mathbb{R}^{d_h}$, $\mathbf{W}^{(1)} \in \mathbb{R}^{d_h \times d}$, $\mathbf{b}^{(1)} \in \mathbb{R}^{d_h}$, $\mathbf{x} \in \mathbb{R}^{d}$ and $\mathbf{1} \in \mathbb{R}^{d_h}$\\
 
-\subsection{Backward update through the first weights}
-
-\begin{equation}
-    \frac{\partial L}{\partial \mathbf{x}} = \frac{\partial L}{\partial \mathbf{h}^a}\frac{\partial \mathbf{h}^a}{ \mathbf{x}}
-\end{equation}\\
-
-We have already defined $\frac{\partial L}{\partial \mathbf{h}^a}$. The gradient $\frac{\partial \mathbf{h}^a}{ \mathbf{x}}$ is given by: \\
-
-\begin{align}
-    \frac{\partial \mathbf{h}^a}{ \mathbf{x}} &= \frac{\partial}{\mathbf{x}} (\mathbf{W}^{(1)} \mathbf{x}^T+ \mathbf{b}^{(1)}) \\
-    &= \mathbf{W}^{(1)T}
-\end{align}
+%\subsection{Backward update through the first weights}
+%
+%\begin{equation}
+%    \frac{\partial L}{\partial \mathbf{x}} = \frac{\partial L}{\partial \mathbf{h}^a}\frac{\partial \mathbf{h}^a}{ \mathbf{x}}
+%\end{equation}\\
+%
+%We have already defined $\frac{\partial L}{\partial \mathbf{h}^a}$. The gradient $\frac{\partial \mathbf{h}^a}{ \mathbf{x}}$ is given by: \\
+%
+%\begin{align}
+%    \frac{\partial \mathbf{h}^a}{ \mathbf{x}} &= \frac{\partial}{\mathbf{x}} (\mathbf{W}^{(1)} \mathbf{x}^T+ \mathbf{b}^{(1)}) \\
+%    &= \mathbf{W}^{(1)T}
+%\end{align}
 
 \subsection{Gradient of Regularizers}
 
