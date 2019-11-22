@@ -15,7 +15,7 @@
 
 ### Lesson content
 - [Lesson Slides](https://docs.google.com/presentation/d/11aaWCeW3Sf3MuFIXsvg-Z9QLuj-60DBvnkGFdksGZWI/edit#slide=id.g5e4bb0f74d_0_409)
-- [Software Carpentry Lecture](https://elizabeth-dupre.com/git-course/)
+- [Software Carpentry Lecture](http://emdupre.github.io/git-course/)
 
 ### Supplemental materials
 - [Github Hello World](https://guides.github.com/activities/hello-world/)
